@@ -49,6 +49,7 @@ end
 
 gem 'activeadmin', github: 'activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'devise'
 gem 'pg'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
